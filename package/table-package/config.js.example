@@ -24,6 +24,7 @@ const display_body_table = (item, iteration) => {
 
 // if you want add some function for your data in the body table you can add here
 const extra_function_for_body_table = (mindata, maxdata) => {
+
 }
 
 
