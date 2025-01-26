@@ -1,0 +1,570 @@
+[
+    {
+        "Task": "Membuat chess bread harum enak",
+        "Status": "In Progress",
+        "Last_Update": "Mar 4, 2024",
+        "Date_Added": "Feb 4, 2024"
+    },
+    {
+        "Task": "Beli bahan roti",
+        "Status": "In Progress",
+        "Last_Update": "Mar 5, 2024",
+        "Date_Added": "Feb 5, 2024"
+    },
+    {
+        "Task": "Menyiapkan oven",
+        "Status": "In Progress",
+        "Last_Update": "Mar 6, 2024",
+        "Date_Added": "Feb 6, 2024"
+    },
+    {
+        "Task": "Membuat adonan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 7, 2024",
+        "Date_Added": "Feb 7, 2024"
+    },
+    {
+        "Task": "Panggang roti",
+        "Status": "In Progress",
+        "Last_Update": "Mar 8, 2024",
+        "Date_Added": "Feb 8, 2024"
+    },
+    {
+        "Task": "Cek kualitas roti",
+        "Status": "In Progress",
+        "Last_Update": "Mar 9, 2024",
+        "Date_Added": "Feb 9, 2024"
+    },
+    {
+        "Task": "Siapkan kemasan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 10, 2024",
+        "Date_Added": "Feb 10, 2024"
+    },
+    {
+        "Task": "Masukkan roti ke kemasan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 11, 2024",
+        "Date_Added": "Feb 11, 2024"
+    },
+    {
+        "Task": "Buat label produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 12, 2024",
+        "Date_Added": "Feb 12, 2024"
+    },
+    {
+        "Task": "Susun roti di rak",
+        "Status": "In Progress",
+        "Last_Update": "Mar 13, 2024",
+        "Date_Added": "Feb 13, 2024"
+    },
+    {
+        "Task": "Promosi produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 14, 2024",
+        "Date_Added": "Feb 14, 2024"
+    },
+    {
+        "Task": "Terima pesanan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 15, 2024",
+        "Date_Added": "Feb 15, 2024"
+    },
+    {
+        "Task": "Kirim roti ke pelanggan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 16, 2024",
+        "Date_Added": "Feb 16, 2024"
+    },
+    {
+        "Task": "Cek feedback pelanggan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 17, 2024",
+        "Date_Added": "Feb 17, 2024"
+    },
+    {
+        "Task": "Evaluasi kualitas roti",
+        "Status": "In Progress",
+        "Last_Update": "Mar 18, 2024",
+        "Date_Added": "Feb 18, 2024"
+    },
+    {
+        "Task": "Perbaiki resep",
+        "Status": "In Progress",
+        "Last_Update": "Mar 19, 2024",
+        "Date_Added": "Feb 19, 2024"
+    },
+    {
+        "Task": "Eksperimen roti baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 20, 2024",
+        "Date_Added": "Feb 20, 2024"
+    },
+    {
+        "Task": "Foto produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 21, 2024",
+        "Date_Added": "Feb 21, 2024"
+    },
+    {
+        "Task": "Update media sosial",
+        "Status": "In Progress",
+        "Last_Update": "Mar 22, 2024",
+        "Date_Added": "Feb 22, 2024"
+    },
+    {
+        "Task": "Buat promo diskon",
+        "Status": "In Progress",
+        "Last_Update": "Mar 23, 2024",
+        "Date_Added": "Feb 23, 2024"
+    },
+    {
+        "Task": "Libur akhir pekan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 24, 2024",
+        "Date_Added": "Feb 24, 2024"
+    },
+    {
+        "Task": "Cek persediaan bahan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 25, 2024",
+        "Date_Added": "Feb 25, 2024"
+    },
+    {
+        "Task": "Order bahan baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 26, 2024",
+        "Date_Added": "Feb 26, 2024"
+    },
+    {
+        "Task": "Rapat evaluasi",
+        "Status": "In Progress",
+        "Last_Update": "Mar 27, 2024",
+        "Date_Added": "Feb 27, 2024"
+    },
+    {
+        "Task": "Tulis laporan bulanan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 28, 2024",
+        "Date_Added": "Feb 28, 2024"
+    },
+    {
+        "Task": "Masukkan roti ke kemasan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 11, 2024",
+        "Date_Added": "Feb 11, 2024"
+    },
+    {
+        "Task": "Buat label produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 12, 2024",
+        "Date_Added": "Feb 12, 2024"
+    },
+    {
+        "Task": "Susun roti di rak",
+        "Status": "In Progress",
+        "Last_Update": "Mar 13, 2024",
+        "Date_Added": "Feb 13, 2024"
+    },
+    {
+        "Task": "Promosi produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 14, 2024",
+        "Date_Added": "Feb 14, 2024"
+    },
+    {
+        "Task": "Terima pesanan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 15, 2024",
+        "Date_Added": "Feb 15, 2024"
+    },
+    {
+        "Task": "Kirim roti ke pelanggan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 16, 2024",
+        "Date_Added": "Feb 16, 2024"
+    },
+    {
+        "Task": "Cek feedback pelanggan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 17, 2024",
+        "Date_Added": "Feb 17, 2024"
+    },
+    {
+        "Task": "Evaluasi kualitas roti",
+        "Status": "In Progress",
+        "Last_Update": "Mar 18, 2024",
+        "Date_Added": "Feb 18, 2024"
+    },
+    {
+        "Task": "Perbaiki resep",
+        "Status": "In Progress",
+        "Last_Update": "Mar 19, 2024",
+        "Date_Added": "Feb 19, 2024"
+    },
+    {
+        "Task": "Eksperimen roti baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 20, 2024",
+        "Date_Added": "Feb 20, 2024"
+    },
+    {
+        "Task": "Foto produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 21, 2024",
+        "Date_Added": "Feb 21, 2024"
+    },
+    {
+        "Task": "Update media sosial",
+        "Status": "In Progress",
+        "Last_Update": "Mar 22, 2024",
+        "Date_Added": "Feb 22, 2024"
+    },
+    {
+        "Task": "Buat promo diskon",
+        "Status": "In Progress",
+        "Last_Update": "Mar 23, 2024",
+        "Date_Added": "Feb 23, 2024"
+    },
+    {
+        "Task": "Libur akhir pekan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 24, 2024",
+        "Date_Added": "Feb 24, 2024"
+    },
+    {
+        "Task": "Cek persediaan bahan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 25, 2024",
+        "Date_Added": "Feb 25, 2024"
+    },
+    {
+        "Task": "Order bahan baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 26, 2024",
+        "Date_Added": "Feb 26, 2024"
+    },
+    {
+        "Task": "Rapat evaluasi",
+        "Status": "In Progress",
+        "Last_Update": "Mar 27, 2024",
+        "Date_Added": "Feb 27, 2024"
+    },
+    
+    {
+        "Task": "Perbaiki resep",
+        "Status": "In Progress",
+        "Last_Update": "Mar 19, 2024",
+        "Date_Added": "Feb 19, 2024"
+    },
+    {
+        "Task": "Eksperimen roti baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 20, 2024",
+        "Date_Added": "Feb 20, 2024"
+    },
+    {
+        "Task": "Foto produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 21, 2024",
+        "Date_Added": "Feb 21, 2024"
+    },
+    {
+        "Task": "Update media sosial",
+        "Status": "In Progress",
+        "Last_Update": "Mar 22, 2024",
+        "Date_Added": "Feb 22, 2024"
+    },
+    {
+        "Task": "Buat promo diskon",
+        "Status": "In Progress",
+        "Last_Update": "Mar 23, 2024",
+        "Date_Added": "Feb 23, 2024"
+    },
+    {
+        "Task": "Libur akhir pekan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 24, 2024",
+        "Date_Added": "Feb 24, 2024"
+    },
+    {
+        "Task": "Cek persediaan bahan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 25, 2024",
+        "Date_Added": "Feb 25, 2024"
+    },
+    {
+        "Task": "Order bahan baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 26, 2024",
+        "Date_Added": "Feb 26, 2024"
+    },
+    {
+        "Task": "Terima pesanan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 15, 2024",
+        "Date_Added": "Feb 15, 2024"
+    },
+    {
+        "Task": "Kirim roti ke pelanggan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 16, 2024",
+        "Date_Added": "Feb 16, 2024"
+    },
+    {
+        "Task": "Cek feedback pelanggan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 17, 2024",
+        "Date_Added": "Feb 17, 2024"
+    },
+    {
+        "Task": "Evaluasi kualitas roti",
+        "Status": "In Progress",
+        "Last_Update": "Mar 18, 2024",
+        "Date_Added": "Feb 18, 2024"
+    },
+    {
+        "Task": "Perbaiki resep",
+        "Status": "In Progress",
+        "Last_Update": "Mar 19, 2024",
+        "Date_Added": "Feb 19, 2024"
+    },
+    {
+        "Task": "Eksperimen roti baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 20, 2024",
+        "Date_Added": "Feb 20, 2024"
+    },
+    {
+        "Task": "Foto produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 21, 2024",
+        "Date_Added": "Feb 21, 2024"
+    },
+    {
+        "Task": "Update media sosial",
+        "Status": "In Progress",
+        "Last_Update": "Mar 22, 2024",
+        "Date_Added": "Feb 22, 2024"
+    },
+    {
+        "Task": "Buat promo diskon",
+        "Status": "In Progress",
+        "Last_Update": "Mar 23, 2024",
+        "Date_Added": "Feb 23, 2024"
+    },
+    {
+        "Task": "Libur akhir pekan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 24, 2024",
+        "Date_Added": "Feb 24, 2024"
+    },
+    {
+        "Task": "Cek persediaan bahan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 25, 2024",
+        "Date_Added": "Feb 25, 2024"
+    },
+    {
+        "Task": "Order bahan baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 26, 2024",
+        "Date_Added": "Feb 26, 2024"
+    },
+    {
+        "Task": "Rapat evaluasi",
+        "Status": "In Progress",
+        "Last_Update": "Mar 27, 2024",
+        "Date_Added": "Feb 27, 2024"
+    },
+    
+    {
+        "Task": "Perbaiki resep",
+        "Status": "In Progress",
+        "Last_Update": "Mar 19, 2024",
+        "Date_Added": "Feb 19, 2024"
+    },
+    {
+        "Task": "Eksperimen roti baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 20, 2024",
+        "Date_Added": "Feb 20, 2024"
+    },
+    {
+        "Task": "Foto produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 21, 2024",
+        "Date_Added": "Feb 21, 2024"
+    },
+    {
+        "Task": "Update media sosial",
+        "Status": "In Progress",
+        "Last_Update": "Mar 22, 2024",
+        "Date_Added": "Feb 22, 2024"
+    },
+    {
+        "Task": "Buat promo diskon",
+        "Status": "In Progress",
+        "Last_Update": "Mar 23, 2024",
+        "Date_Added": "Feb 23, 2024"
+    },
+    {
+        "Task": "Libur akhir pekan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 24, 2024",
+        "Date_Added": "Feb 24, 2024"
+    },
+    {
+        "Task": "Cek persediaan bahan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 25, 2024",
+        "Date_Added": "Feb 25, 2024"
+    },
+    {
+        "Task": "Order bahan baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 26, 2024",
+        "Date_Added": "Feb 26, 2024"
+    },
+    {
+        "Task": "Terima pesanan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 15, 2024",
+        "Date_Added": "Feb 15, 2024"
+    },
+    {
+        "Task": "Kirim roti ke pelanggan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 16, 2024",
+        "Date_Added": "Feb 16, 2024"
+    },
+    {
+        "Task": "Cek feedback pelanggan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 17, 2024",
+        "Date_Added": "Feb 17, 2024"
+    },
+    {
+        "Task": "Evaluasi kualitas roti",
+        "Status": "In Progress",
+        "Last_Update": "Mar 18, 2024",
+        "Date_Added": "Feb 18, 2024"
+    },
+    {
+        "Task": "Perbaiki resep",
+        "Status": "In Progress",
+        "Last_Update": "Mar 19, 2024",
+        "Date_Added": "Feb 19, 2024"
+    },
+    {
+        "Task": "Eksperimen roti baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 20, 2024",
+        "Date_Added": "Feb 20, 2024"
+    },
+    {
+        "Task": "Foto produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 21, 2024",
+        "Date_Added": "Feb 21, 2024"
+    },
+    {
+        "Task": "Update media sosial",
+        "Status": "In Progress",
+        "Last_Update": "Mar 22, 2024",
+        "Date_Added": "Feb 22, 2024"
+    },
+    {
+        "Task": "Buat promo diskon",
+        "Status": "In Progress",
+        "Last_Update": "Mar 23, 2024",
+        "Date_Added": "Feb 23, 2024"
+    },
+    {
+        "Task": "Libur akhir pekan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 24, 2024",
+        "Date_Added": "Feb 24, 2024"
+    },
+    {
+        "Task": "Cek persediaan bahan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 25, 2024",
+        "Date_Added": "Feb 25, 2024"
+    },
+    {
+        "Task": "Order bahan baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 26, 2024",
+        "Date_Added": "Feb 26, 2024"
+    },
+    {
+        "Task": "Rapat evaluasi",
+        "Status": "In Progress",
+        "Last_Update": "Mar 27, 2024",
+        "Date_Added": "Feb 27, 2024"
+    },
+    
+    {
+        "Task": "Perbaiki resep",
+        "Status": "In Progress",
+        "Last_Update": "Mar 19, 2024",
+        "Date_Added": "Feb 19, 2024"
+    },
+    {
+        "Task": "Eksperimen roti baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 20, 2024",
+        "Date_Added": "Feb 20, 2024"
+    },
+    {
+        "Task": "Foto produk",
+        "Status": "In Progress",
+        "Last_Update": "Mar 21, 2024",
+        "Date_Added": "Feb 21, 2024"
+    },
+    {
+        "Task": "Update media sosial",
+        "Status": "In Progress",
+        "Last_Update": "Mar 22, 2024",
+        "Date_Added": "Feb 22, 2024"
+    },
+    {
+        "Task": "Buat promo diskon",
+        "Status": "In Progress",
+        "Last_Update": "Mar 23, 2024",
+        "Date_Added": "Feb 23, 2024"
+    },
+    {
+        "Task": "Libur akhir pekan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 24, 2024",
+        "Date_Added": "Feb 24, 2024"
+    },
+    {
+        "Task": "Cek persediaan bahan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 25, 2024",
+        "Date_Added": "Feb 25, 2024"
+    },
+    {
+        "Task": "Order bahan baru",
+        "Status": "In Progress",
+        "Last_Update": "Mar 26, 2024",
+        "Date_Added": "Feb 26, 2024"
+    },
+    {
+        "Task": "Rapat evaluasi",
+        "Status": "In Progress",
+        "Last_Update": "Mar 27, 2024",
+        "Date_Added": "Feb 27, 2024"
+    },
+    
+    {
+        "Task": "Tulis laporan bulanan",
+        "Status": "In Progress",
+        "Last_Update": "Mar 28, 2024",
+        "Date_Added": "Feb 28, 2024"
+    }
+]
